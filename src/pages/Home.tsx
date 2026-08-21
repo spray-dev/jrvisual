@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { PRODUCTS } from "@/data/products";
-import logo from "@../imports/JRLOGO2.png";
+import logo from "../imports/JRLOGO2.png";
 
 export default function Home() {
   const featured = PRODUCTS.slice(0, 3);
