@@ -1,0 +1,10 @@
+{
+  "description": "Transform existing websites into mobile-friendly versions, enhancing user experience and accessibility for mobile users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
