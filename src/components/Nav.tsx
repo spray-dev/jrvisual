@@ -1,5 +1,5 @@
 import { NavLink } from "react-router";
-import logo from "../imports/JRLOGO2.png";
+import logo from "../imports/jrlogo2.png";
 
 export default function Nav() {
   return (
