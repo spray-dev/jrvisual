@@ -1,6 +1,5 @@
 import { Link } from "react-router";
 import { PRODUCTS } from "@/data/products";
-import logo from "../imports/jrlogo2.png";
 
 export default function Home() {
   const featured = PRODUCTS.slice(0, 3);
@@ -9,7 +8,7 @@ export default function Home() {
     <>
       <section id="welcome">
         <header>
-          <img src={logo} alt="JR Comunicação Visual" className="welcome-logo" />
+          <img src="/jrlogo2.png" alt="JR Comunicação Visual" className="nav-logo" />
         </header>
         <p>
           Uma empresa familiar, construída com dedicação, confiança e compromisso em cada projeto

@@ -1,12 +1,11 @@
 import { NavLink } from "react-router";
-import logo from "../imports/jrlogo2.png";
 
 export default function Nav() {
   return (
     <header id="main-navigation">
       <div className="nav-inner">
         <NavLink to="/">
-          <img src={logo} alt="JR Comunicação Visual" className="nav-logo" />
+          <img src="/jrlogo2.png" alt="JR Comunicação Visual" className="nav-logo" />
         </NavLink>
         <nav className="nav-links-wrap">
           <ul className="nav-links">
