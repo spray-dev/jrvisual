@@ -5,7 +5,7 @@ export default function Nav() {
     <header id="main-navigation">
       <div className="nav-inner">
         <NavLink to="/">
-          <img src="/logojrp.png" alt="JR Comunicação Visual" className="nav-logo" />
+          <img src="/logojrp.png" alt="JR Comunicação Visual" className="nav-logo-header" />
         </NavLink>
         <nav className="nav-links-wrap">
           <ul className="nav-links">

@@ -54,6 +54,13 @@ body {
   object-fit: contain;
 }
 
+.nav-logo-header {
+  height: 2rem;
+  width: auto;
+  display: block;
+  object-fit: contain;
+}
+
 .nav-links {
   display: flex;
   gap: 0.25rem;
@@ -797,6 +804,9 @@ footer {
 
   .nav-logo {
     height: 2rem;
+  }
+  .nav-logo-header {
+  height: 2rem;
   }
 }
 
