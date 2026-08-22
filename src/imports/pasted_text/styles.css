@@ -283,7 +283,7 @@ body {
   }
 
   #welcome img {
-    width: min(100%, 320px);
+    width: min(100%, 416px);
     max-width: 100%;
   }
 
