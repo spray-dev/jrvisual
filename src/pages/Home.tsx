@@ -2,7 +2,7 @@ import { Link } from "react-router";
 import { PRODUCTS } from "@/data/products";
 
 export default function Home() {
-  const featured = PRODUCTS.slice(0, 3);
+  const featured = PRODUCTS.slice(0, 4);
 
   return (
     <>
