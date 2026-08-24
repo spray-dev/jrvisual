@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <section id="welcome">
         <header>
-          <img src="/jrlogo2.png" alt="JR Comunicação Visual" className="nav-logo" />
+          <img src="/jrlogo2.webp" alt="JR Comunicação Visual" className="nav-logo" />
         </header>
         <p>
           Uma empresa familiar, construída com dedicação, confiança e compromisso em cada projeto
@@ -48,24 +48,24 @@ export default function Home() {
         <div className="contact-grid">
           <a
             className="contact-card whatsapp"
-            href="https://wa.me/5511999999999"
+            href="https://wa.me/5567992538084"
             target="_blank"
             rel="noreferrer"
           >
             <span className="contact-icon"><i className="fa-brands fa-whatsapp"></i></span>
             <strong>WhatsApp</strong>
-            <span>(11) 99999-9999</span>
+            <span>(67) 99253-8084</span>
           </a>
 
           <a
             className="contact-card instagram"
-            href="https://instagram.com/jrcomunicacaovisual"
+            href="https://instagram.com/jrcomunica"
             target="_blank"
             rel="noreferrer"
           >
             <span className="contact-icon"><i className="fa-brands fa-instagram"></i></span>
             <strong>Instagram</strong>
-            <span>@jrcomunicacaovisual</span>
+            <span>@jrcomunica</span>
           </a>
 
           <div className="contact-card email">
@@ -80,14 +80,14 @@ export default function Home() {
             <span className="meta-icon"><i className="fa-solid fa-location-dot"></i></span>
             <div className="meta-text">
               <span className="meta-label">Endereço</span>
-              <span className="meta-value">Rua Exemplo, 123 — Centro, São Paulo/SP</span>
+              <span className="meta-value">Rua Luiz Bento, 142 — Vila Popular, Campo Grande/MS</span>
             </div>
           </div>
           <div className="contact-meta-item">
             <span className="meta-icon"><i className="fa-solid fa-phone"></i></span>
             <div className="meta-text">
               <span className="meta-label">Telefone</span>
-              <span className="meta-value">(11) 3333-4444</span>
+              <span className="meta-value">(67) 99253-8084</span>
             </div>
           </div>
         </div>

@@ -32,7 +32,7 @@ export default function ProductDetail() {
           <p className="product-detail__excerpt">{product.excerpt}</p>
           <p className="product-detail__content">{product.content}</p>
           <a
-            href="https://wa.me/5511999999999"
+            href="https://wa.me/5567992538084"
             target="_blank"
             rel="noreferrer"
             className="btn-whatsapp"
