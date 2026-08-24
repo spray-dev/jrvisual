@@ -494,8 +494,9 @@ body {
 
 #all-products .product img {
   width: 100%;
-  height: 10rem;
+  aspect-ratio: 4/3;
   object-fit: cover;
+  display: block;
   background: #dfeaf2;
 }
 
@@ -554,7 +555,7 @@ body {
 }
 
 .product-detail__inner {
-  display: grid;
+  display: contents;
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
   align-items: start;
@@ -566,14 +567,13 @@ body {
 }
 
 .product-detail__img-wrap {
-  aspect-ratio: 4/3;
   overflow: hidden;
 }
 
 .product-detail__img-wrap img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   display: block;
 }
 
@@ -740,10 +740,16 @@ footer {
 
   .product-detail__inner {
     grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .product-detail__img-wrap img {
+    width: 100%;
+    height: 100%;
   }
 
   .product-detail__img-wrap {
-    aspect-ratio: 16/9;
+    height: auto;
   }
 
   .product-detail__body {
