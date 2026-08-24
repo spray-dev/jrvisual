@@ -48,7 +48,7 @@ export default function Home() {
         <div className="contact-grid">
           <a
             className="contact-card whatsapp"
-            href="https://wa.me/5567992538084"
+            href="https://wa.me/5567992538084?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20produtos%20dispon%C3%ADveis%20e%20como%20posso%20fazer%20o%20or%C3%A7amento%20de%20um%20projeto%20para%20minha%20empresa."
             target="_blank"
             rel="noreferrer"
           >
