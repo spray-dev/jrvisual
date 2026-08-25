@@ -2,7 +2,7 @@
 
 Interface web responsiva desenvolvida em TypeScript, com foco em adaptação para dispositivos móveis, organização visual e experiência do usuário.
 
-**Demo:** [Acessar aplicação](https://mobile-website-adaptation-iota.vercel.app)
+**Demo:** [Acessar aplicação](https://jrcomunica.vercel.app)
 
 ## Tecnologias
 
