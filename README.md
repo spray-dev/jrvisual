@@ -2,7 +2,7 @@
 
 Site de apresentação para a **JR Visual**, empresa de comunicação visual e gráfica. Projeto desenvolvido para colocar em prática conceitos de desenvolvimento web moderno com foco em criar um front-end responsivo e performativo.
 
-[https://](https://jrcomunica.vercel.app/)
+https://jrcomunica.vercel.app/
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com)
 
@@ -10,8 +10,8 @@ Site de apresentação para a **JR Visual**, empresa de comunicação visual e g
 
 - **React** - Biblioteca para construção da interface
 - **TypeScript** - Tipagem estática para maior segurança no código
-- **Vite** - Build tool e dev server ultra-rá¿¿do
-- **CSS Modules** - Estilizaç¿¿o modular e escalá¿¿vel
+- **Vite** - Build tool e dev server ultra-rápido
+- **CSS Modules** - Estilizaç¿¿o modular e escalável
 - **Vercel** - Plataforma de deploy e hospedagem
 
 ## 📁 Estrutura do Projeto
