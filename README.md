@@ -2,7 +2,7 @@
 
 Site de apresentação para a **JR Visual**, empresa de comunicação visual e gráfica. Projeto desenvolvido para colocar em prática conceitos de desenvolvimento web moderno, com foco em um front-end responsivo e performático.
 
-Acessar demonstração: https:/jrcomunica.vercel.app
+Acessar demonstração: (https:/jrcomunica.vercel.app)
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com)
 
