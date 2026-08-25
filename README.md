@@ -2,6 +2,8 @@
 
 Site de apresentação para a **JR Visual**, empresa de comunicação visual e gráfica. Projeto desenvolvido para colocar em prática conceitos de desenvolvimento web moderno com foco em criar um front-end responsivo e performativo.
 
+[https://](https://jrcomunica.vercel.app/)
+
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com)
 
 ## 🚀 Tecnologias Utilizadas
@@ -35,13 +37,13 @@ jrvisual/
 ## 🎯 Funcionalidades
 
 - **Home Page** - Apresentação da empresa com destaque para serviços principais
-- **Catá¿¿logo de Produtos** - Exibiç¿¿o de produtos e serviços da gráfica
+- **Catálogo de Produtos** - Exibição de produtos e serviços da gráfica
 - **Sobre Nós** - Informações sobre a empresa
 - **Detalhes do Produto** - Página individual para cada produto/serviç¿¿o
-- **Navegaç¿¿o Responsiva** - Menu adaptativo para mobile e desktop
-- **Deploy Automá¿¿tico** - CI/CD integrado com Vercel
+- **Navegação Responsiva** - Menu adaptativo para mobile e desktop
+- **Deploy Automático** - CI/CD integrado com Vercel
 
-## 🛠️ Instalaç¿¿o e Desenvolvimento
+## 🛠️ Instalação e Desenvolvimento
 
 ### Pré-requisitos
 
@@ -50,13 +52,13 @@ jrvisual/
 
 ### Passos
 
-1. Clone o repositó¿¿¿rio
+1. Clone o repositório
 ```bash
 git clone https://github.com/spray-dev/jrvisual.git
 cd jrvisual
 ```
 
-2. Instale as dependê¿¿ncias
+2. Instale as dependências
 ```bash
 npm install
 # ou
@@ -92,7 +94,7 @@ npm run preview
 
 O projeto está configurado para deploy automático na **Vercel**. Cada push para a branch main dispara um novo deploy.
 
-Configuraç¿¿o em `vercel.json`:
+Configuração em `vercel.json`:
 ```json
 {
   "rewrites": [
@@ -105,12 +107,12 @@ Configuraç¿¿o em `vercel.json`:
 
 **Filipe Coelho Arce**
 - GitHub: [@spray-dev](https://github.com/spray-dev)
-- Projeto desenvolvido como parte do portfó¿¿¿lio para posiç¿¿o de Back-End Developer
+- Projeto desenvolvido como parte do portfólio para posição de Back-End Developer
 
-## 📝 Licenç¿¿
+## 📝 Licença
 
 MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
-*Projeto focado em boas prá ¿ ticas de desenvolvimento front-end com React e TypeScript.*
+*Projeto focado em boas práticas de desenvolvimento front-end com React e TypeScript.*
