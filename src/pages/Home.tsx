@@ -87,7 +87,7 @@ export default function Home() {
             <span className="meta-icon"><i className="fa-solid fa-phone"></i></span>
             <div className="meta-text">
               <span className="meta-label">Telefone</span>
-              <span className="meta-value">(67) 99253-8084</span>
+              <span className="meta-value"> (67) 99253-8084 </span>
             </div>
           </div>
         </div>

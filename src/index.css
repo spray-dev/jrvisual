@@ -701,6 +701,7 @@ body {
 
 .about-us__story p:last-child {
   border-left-color: #EB0C7B;
+  text-align: center;
 }
 
 /* ─── Not found ──────────────────────────────────────────── */

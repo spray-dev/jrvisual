@@ -6,18 +6,15 @@ export default function AboutUs() {
       </div>
       <div className="about-us__story">
         <p>
-          Nossa empresa existe desde 2012, quando começamos a trabalhar em uma empresa de
-          comunicação visual. Nossa missão era criar produtos que atendessem às necessidades dos
-          nossos clientes, e isso nos levou a criar a JR Comunicação Visual. Com o passar do tempo,
-          nossa empresa se tornou cada vez mais especializada em gráfica e comunicação visual, e
-          nossos produtos foram cada vez mais sofisticados.
+          Em 2014, nasceu um sonho que cabia dentro de uma caixa de sapatos, mas que já carregava a força necessária para crescer 
+          e superar os desafios encontrados pelo caminho. Desde então, seguimos firmes, movidos pela dedicação, 
+          pela confiança de nossos clientes e pelo trabalho de uma família unida, comprometida em entregar sempre o melhor. 
+          Com mais de uma década de experiência, a JR Comunicação Visual oferece soluções completas e personalizadas para empresas, 
+          profissionais e eventos. Atuamos com serviços gráficos, fachadas, banners, lonas impressas, adesivos, 
+          camisetas personalizadas e muito mais, sempre prezando pela qualidade, criatividade e excelência em cada projeto.
         </p>
         <p>
-          JR Comunicação Visual é uma empresa especializada em gráfica e comunicação visual, com a
-          missão de fornecer produtos com a identidade e a qualidade que atendem às necessidades dos
-          clientes. Nossa equipe é composta por profissionais com diferentes especialidades, cada um
-          com um objetivo claro e uma visão clara do mercado. Juntos, eles trabalham para garantir
-          que nossos produtos sejam exatamente o que nossos clientes precisam.
+          Mais do que produzir materiais, ajudamos a transformar ideias em soluções visuais que comunicam, valorizam marcas e tornam cada projeto único.
         </p>
       </div>
     </section>
